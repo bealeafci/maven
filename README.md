@@ -1,5 +1,6 @@
 # Java with Maven Quickstart Template
 [![Build Status](https://travis-ci.org/bealeafci/maven.svg?branch=master)](https://travis-ci.org/bealeafci/maven) [![Code Coverage](https://codecov.io/gh/bealeafci/maven/branch/master/graphs/badge.svg?branch=master)](https://codecov.io/gh/bealeafci/maven)
+![Java CI with Maven](https://github.com/bealeafci/maven/workflows/Java%20CI%20with%20Maven/badge.svg)
 [![GitHub issues](https://img.shields.io/github/issues/bealeafci/maven)](https://github.com/bealeafci/maven/issues)
 
 This repo contains a minimal Java project template that comes with Maven, Continuous Integration (CI) and Code Coverage support.
