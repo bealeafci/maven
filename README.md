@@ -11,7 +11,7 @@ git clone https://github.com/bealeafci/maven.git
 cd ./maven
 ```
 
-> **Note:** In order to use Jacoco for code coverage [Oracle JDK 8](https://github.com/codecov/example-java-maven/pull/11) `oraclejdk8` is required.
+> **Note:** In order to use Jacoco for code coverage Oracle JDK 8 `oraclejdk8` is required. [#](https://github.com/codecov/example-java-maven/pull/11)
 
 #### Travis-CI
 Log on to [Travis-CI](https://www.travis-ci.org), grant required access rights and activate Travis-CI for the corresponding repositories.
