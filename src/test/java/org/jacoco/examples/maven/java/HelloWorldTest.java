@@ -10,7 +10,7 @@ public class HelloWorldTest {
 	private HelloWorld subject;
 
 	@Before
-	public void setup() {
+	public void setUp() {
 		subject = new HelloWorld();
 	}
 
