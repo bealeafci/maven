@@ -31,12 +31,6 @@
 		</dependency>
 	</dependencies>
 
-	<properties>
-		<maven.compiler.source>13</maven.compiler.source>
-		<maven.compiler.target>13</maven.compiler.target>
-		<maven.compiler.release>13</maven.compiler.release>
-	</properties>
-
 	<build>
 		<sourceDirectory>src/main/java</sourceDirectory>
 		<plugins>
