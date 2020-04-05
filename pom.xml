@@ -31,10 +31,6 @@
 		</dependency>
 	</dependencies>
 
-	<properties>
-		<maven.compiler.release>13</maven.compiler.release>
-	</properties>
-
 	<build>
 		<sourceDirectory>src/main/java</sourceDirectory>
 		<plugins>
@@ -55,7 +51,7 @@
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>3.8.0</version>
 				<configuration>
-					<release>13</release>
+					<release>11</release>
 				</configuration>
 			</plugin>
 		</plugins>
