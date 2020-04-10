@@ -1,6 +1,7 @@
 # Java with Maven Quickstart Template
 [![Build Status](https://travis-ci.org/bealeafci/maven.svg?branch=master)](https://travis-ci.org/bealeafci/maven) [![Code Coverage](https://codecov.io/gh/bealeafci/maven/branch/master/graphs/badge.svg?branch=master)](https://codecov.io/gh/bealeafci/maven)
 ![Java CI with Maven](https://github.com/bealeafci/maven/workflows/Java%20CI%20with%20Maven/badge.svg)
+[![Maintainability](https://api.codeclimate.com/v1/badges/978003e33d4cb6fa41f3/maintainability)](https://codeclimate.com/github/bealeafci/maven/maintainability)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/42b296ce3ea84ab4bb4fa6424b6edb9c)](https://www.codacy.com/gh/bealeafci/maven)
 [![GitHub issues](https://img.shields.io/github/issues/bealeafci/maven)](https://github.com/bealeafci/maven/issues)
 
