@@ -3,7 +3,7 @@ install: true
 
 os: linux
 dist: trusty
-jdk: oraclejdk11
+jdk: oraclejdk14
 
 after_success:
   - bash <(curl -s https://codecov.io/bash)
