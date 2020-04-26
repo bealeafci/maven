@@ -15,7 +15,7 @@ git clone https://github.com/bealeafci/maven.git
 cd ./maven
 ```
 
-> **Note:** Usage of a higher version of the [Oracle JDK 11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) requires editing the files: `.travis.yml`, `pom.xml` and `.github/workflows/maven.yml`.
+> **Note:** Usage of a higher version of the [Oracle JDK 14](https://www.oracle.com/java/technologies/javase-jdk14-downloads.html) requires editing the files: `.travis.yml`, `pom.xml` and `.github/workflows/maven.yml`.
 
 #### Travis-CI
 Log on to [Travis-CI](https://www.travis-ci.org), grant required access rights and activate Travis-CI for the corresponding repositories.
